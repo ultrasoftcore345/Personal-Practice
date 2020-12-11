@@ -1,5 +1,5 @@
 # Personal-Practice
-`
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -27,4 +27,4 @@ function fizzbuzz() {
 </body>
 
 </html>
-`
+```
