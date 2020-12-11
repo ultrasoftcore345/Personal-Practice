@@ -1,6 +1,6 @@
 # Personal-Practice
 
-<!DOCTYPE html>
+'<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
@@ -26,4 +26,4 @@ function fizzbuzz() {
 </div>
 </body>
 
-</html>
+</html>'
