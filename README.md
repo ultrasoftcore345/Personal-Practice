@@ -1,30 +1,11 @@
-# Personal-Practice
-```
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Fizz Buzz</title>
-<script>
+# World of Warcraft Classic - Hardcore Challenge
 
-function fizzbuzz() {
-	var display = document.getElementById('display');
-	var displayHTML = "";
-	for (i = 0; i < 100; i++) {
-		displayHTML += "<p>" + i + "</p>";
-	}
-	display.innerHTML = displayHTML;
-}
+------------------------------------------------
 
-</script>
+Following the great success of the re-launch of the original version of World of Warcraft, many players found themselves burnt out on the meta-game of an arguably over-optimized player-base. Despite them not being necessary to clear content in the game, social pressure to spend hours upon hours farming consumables and world buffs to clear content as fast as possible has left a sour taste in the mouths of many.
 
-</head>
+An example of a well-buffed character (this isn't even all of them):
 
-<body onload="fizzbuzz()">
-<div id="display">
+![Buff meta](https://cwl-forums.s3.amazonaws.com/87d09a3c-3d78-4b53-998e-3a9eeab19c65.jpg)
 
-</div>
-</body>
-
-</html>
-```
+I would say that most people wanted desperately for WoW Classic to be the incredibly challenging, incredibly immersive game they remember from 15 years ago. A savior game to deliver us from the travails of the modern version of the game. Unfortunately, this was not the case. In an attempt to recapture what made us fall in love with the mmo all those years ago, a portion of the Classic community created a community leveling challenge to increase player immersion and bring back some challenge.
