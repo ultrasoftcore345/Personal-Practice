@@ -19,6 +19,7 @@
 
 - You must always be in the same zone.
   - This means you must choose races that start in the same zone.
+  - The only exception is that Druids may travel alone to Moonglade for their class quests.
 - You share one life.
   - If one of you dies, the challenge is over for both partners.
 - You may trade anything between each other.
