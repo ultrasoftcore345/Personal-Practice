@@ -10,5 +10,5 @@
 - [Home](https://github.com/ultrasoftcore345/Personal-Practice/edit/main/README.md)
 - [Challenge Rules](https://github.com/ultrasoftcore345/Personal-Practice/blob/main/Rules)
 - [Extra Achievements](https://github.com/ultrasoftcore345/Personal-Practice/blob/main/Achievements.md)
-- [Class Overviews](https://github.com/ultrasoftcore345/Personal-Practice/blob/main/Classes.md)///////////
+- [Class Overviews](https://github.com/ultrasoftcore345/Personal-Practice/blob/main/Classes.md)
 - [Bonus Code](https://github.com/ultrasoftcore345/Personal-Practice/blob/main/Kitty%20Cat%20Code%20Block.md)
