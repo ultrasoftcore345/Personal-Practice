@@ -103,3 +103,10 @@ If the challenge itself isn't enough for you, try adding on these modifiers for 
 	- Complete the challenge without using immunity spells.
 
 ---
+
+**More Links:**
+- [Home](https://github.com/ultrasoftcore345/Personal-Practice/edit/main/README.md)
+- [Challenge Rules](https://github.com/ultrasoftcore345/Personal-Practice/blob/main/Rules)
+- [Class Overviews](https://github.com/ultrasoftcore345/Personal-Practice/blob/main/Classes.md)
+- [Helpful Links](https://github.com/ultrasoftcore345/Personal-Practice/blob/main/Links.md)
+- [Bonus Code](https://github.com/ultrasoftcore345/Personal-Practice/blob/main/Kitty%20Cat%20Code%20Block.md)
