@@ -70,7 +70,7 @@ while (do_calculation):
 
 ---
 
-**More links:**
+**More Links:**
 - [Home](https://github.com/ultrasoftcore345/Personal-Practice/edit/main/README.md)
 - [Challenge Rules](https://github.com/ultrasoftcore345/Personal-Practice/blob/main/Rules)
 - [Extra Achievements](https://github.com/ultrasoftcore345/Personal-Practice/blob/main/Achievements.md)
