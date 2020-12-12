@@ -200,4 +200,9 @@ Shamans are a decent pick as far as their strength, but they are a fantastic pic
 
 ---
 
-More Links
+**More Links:**
+- [Home](https://github.com/ultrasoftcore345/Personal-Practice/edit/main/README.md)
+- [Challenge Rules](https://github.com/ultrasoftcore345/Personal-Practice/blob/main/Rules)
+- [Extra Achievements](https://github.com/ultrasoftcore345/Personal-Practice/blob/main/Achievements.md)
+- [Helpful Links](https://github.com/ultrasoftcore345/Personal-Practice/blob/main/Links.md)
+- [Bonus Code](https://github.com/ultrasoftcore345/Personal-Practice/blob/main/Kitty%20Cat%20Code%20Block.md)
