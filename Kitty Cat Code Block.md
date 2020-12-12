@@ -67,3 +67,12 @@ while (do_calculation):
         print("\nI'll take that as a no. Probably the responsible thing to do. Thank you for your help! You're a hero!")
         do_calculation = False
 ```
+
+---
+
+**More links:**
+- [Home](https://github.com/ultrasoftcore345/Personal-Practice/edit/main/README.md)
+- [Challenge Rules](https://github.com/ultrasoftcore345/Personal-Practice/blob/main/Rules)
+- [Extra Achievements](https://github.com/ultrasoftcore345/Personal-Practice/blob/main/Achievements.md)
+- [Class Overviews](https://github.com/ultrasoftcore345/Personal-Practice/blob/main/Classes.md)
+- [Helpful Links](https://github.com/ultrasoftcore345/Personal-Practice/blob/main/Links.md)
