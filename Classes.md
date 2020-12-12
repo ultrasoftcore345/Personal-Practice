@@ -81,3 +81,24 @@ Cons:
 
 The Mage is one of the best leveling classes due to its high damage, great control, and self-reliance. It may not be able to heal, but it has incredible escape/control tools to get out of bad situations (or prevent them to begin with), and can make their own food and water cutting down on costs significantly.
 
+
+### Druid
+
+Pros:
+- Top-Tier Leveling Speed
+- Highest Movement Speed in the Game
+- Best Questers Because ^
+- Low Gear Dependance
+- High Sustain
+- Strong Self Healing
+- Decent Crowd Control
+- Can Tank, DPS, or Heal
+- Can Stealth
+
+Cons:
+- Slow Start from Lvls 1-20
+- Mediocre ST Kill Speed 1-20, 40+
+- Subpar Grinding Efficiency
+
+Druids are the most versatile class in the game and are able to be a tank, healer, caster dps, and melee dps. They have many good talents that can produce very different builds, all of which have amazing mobility 20+ or 30+ with strong escape tools in roots, stuns, and shapeshifting. They are slow to start, but rapidly pick up after 20 if you build into the feral talent tree.
+
