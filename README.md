@@ -12,7 +12,7 @@ I would say that most people wanted desperately for WoW Classic to be the incred
 
 ### **The links below will take you to information about the rules of the challenge and more:**
 
-- [Challenge Rules](https://github.com/ultrasoftcore345/Personal-Practice/blob/main/Rules)
+- [Challenge Rules](https://github.com/ultrasoftcore345/Personal-Practice/blob/main/Rules.md)
 - [Extra Achievements](https://github.com/ultrasoftcore345/Personal-Practice/blob/main/Achievements.md)
 - [Class Overviews](https://github.com/ultrasoftcore345/Personal-Practice/blob/main/Classes.md)
 - [Helpful Links](https://github.com/ultrasoftcore345/Personal-Practice/blob/main/Links.md)
